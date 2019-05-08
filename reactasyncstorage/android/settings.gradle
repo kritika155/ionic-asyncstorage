@@ -1,0 +1,3 @@
+rootProject.name = 'reactasyncstorage'
+
+include ':app'
